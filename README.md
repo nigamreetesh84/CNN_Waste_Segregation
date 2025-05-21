@@ -48,7 +48,7 @@ The objective is to implement an efficient and scalable waste segregation system
 
 ---
 
-## ⚙️ Training Details
+## Training Details
 
 * **Optimizer**: Adam
 * **Loss Function**: Categorical Crossentropy
