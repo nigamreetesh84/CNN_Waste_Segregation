@@ -67,9 +67,14 @@ The objective is to implement an efficient and scalable waste segregation system
 ## Requirements
 
 * Python 3.8+
-* TensorFlow 2.x
-* NumPy, Matplotlib
-* Jupyter Notebook
+* numpy version: 2.1.3
+* pandas version: 2.2.3
+* seaborn version: 0.13.2
+* matplotlib version: 3.10.1
+* PIL (Pillow) version: 11.2.1
+* tensorflow version: 2.19.0
+* keras version: 3.9.2
+* sklearn version: 1.6.1
 
 ---
 
