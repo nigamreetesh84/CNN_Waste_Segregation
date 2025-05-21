@@ -34,7 +34,7 @@ The objective is to implement an efficient and scalable waste segregation system
 
 ## Files
 
-* `CNN_Waste_Segregation_ReeteshNigam.ipynb`: Jupyter Notebook containing model definition, training, data augmentatio,  evaluation, visualization, and transfer learning steps.
+* `CNN_Waste_Segregation_ReeteshNigam.ipynb`: Jupyter Notebook containing model definition, training, data augmentation,  evaluation, visualization, and transfer learning steps.
 
 ---
 
