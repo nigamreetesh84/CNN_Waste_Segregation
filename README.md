@@ -38,7 +38,7 @@ The notebook also includes training and validation plots to visualize the model'
 
 ---
 
-## ✅ Requirements
+## Requirements
 
 - Python 3.8+
 - TensorFlow 2.x
